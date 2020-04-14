@@ -33,6 +33,12 @@ conn.close()
 
 conn=sqlite3.connect("lite.db")
 cur=conn.cursor()
+cur.execute("INSERT INTO mail VALUES (?,?)",("YOUR_EMAIL_ADDRESS","EMAIL_PASSWORD"))
+conn.commit()
+conn.close()
+
+conn=sqlite3.connect("lite.db")
+cur=conn.cursor()
 cur.execute("CREATE TABLE IF not EXISTS register(user text,email text UNIQUE,password text)")
 conn.commit()
 conn.close()

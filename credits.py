@@ -22,11 +22,5 @@ random OTP generation- random
 
 To remove errors- stackoverflow.com
 
-Guidance and Support- Prof. Dilip Dalgade 
-
-Team Member:
-432 -Harsh Gandhi
-427 -Aditya Dhaware
-424 -Ajay Desai
 
                         """

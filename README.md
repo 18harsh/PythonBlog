@@ -16,3 +16,5 @@ feature:
 5)On clicking user name you will get all the post related to that specific user only. 
 6)On clicking title of the blog you will be able to see that full blog and if it is your post then you will get the feature to edit or delete post.
 
+# click on the link to see the code outcome:
+https://github.com/18harsh/PythonBlog/blob/master/Screenshots.pdf
